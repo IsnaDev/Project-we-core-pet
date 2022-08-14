@@ -1,6 +1,6 @@
-# TO-DO-LIST
+# Project-we-core-pet
  
-React Project.
+Project done in the CSS module of the DevClub classes
 
 <img src="./assets/we-care-home.png" alt="image1"> <br>
 
